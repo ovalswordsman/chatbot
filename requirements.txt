@@ -1,5 +1,5 @@
 streamlit==1.34.0
 pandas==2.2.2
 sentence-transformers==2.2.2
-huggingface_hub==0.10.1
-
+torch==2.2.0
+tokenizers==0.13.3
